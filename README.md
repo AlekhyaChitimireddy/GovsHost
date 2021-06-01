@@ -8,4 +8,6 @@ This is a Conference Theme Website Template, designed using html and css.
 
 ## Pages on this complete Free Template
 
-#### index.html - 
+#### index.html 
+Home Page (Search icon, logo, services, contact us, conferences, collaborations, Membership)
+#### conference.html -
