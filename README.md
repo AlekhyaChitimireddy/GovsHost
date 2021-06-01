@@ -1,4 +1,4 @@
-#Conference Website Design
+Conference Website Design
 
 This is a Conference Website Template, designed using html and css. 
 
