@@ -7,5 +7,5 @@ This is a Conference Theme Website Template, designed using html and css.
 3. JAVASCRIPT
 
 Inline-style: 
-![alt text](https://github.com/AlekhyaChitimireddy/GovsHost/raw/master/src/common/images/logo.png)
+![alt text](https://github.com/AlekhyaChitimireddy/GovsHost/raw/master/src/common/landing.png)
 
