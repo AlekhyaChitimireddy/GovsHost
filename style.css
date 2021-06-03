@@ -198,7 +198,7 @@ nav .content .links{
   color:red;
   border: 1px solid #323c4e;
   padding: 12px 34px;
-  font-size: 15px;
+  font-size: 20px;
   background: transparent;
   position: relative;
   cursor: pointer;
@@ -446,29 +446,66 @@ h3{
 
 /*----Footer-----*/
 .footer{
-  margin: 50px auto;
-  width:80%;
-  background-image: url('images/th.jpg');
-  background-position: center;
-  background-size: cover;
-  border-radius: 10px;
-  text-align: center;
-  padding: 30px 0;
+  background: #000;
+  color: #8a8a8a;
+  font-size: 25px;
+  padding: 60px 0 20px;
+  margin: 0px auto;
+  
+  
 }
-
-.footer h4{
-margin-bottom: 25px;
-margin-top: 20px;
-font-weight: 600;
-color:black;
+.footer p{
+  color: #8a8a8a;
+}
+.footer h3{
+  color:#fff;
+  margin-bottom: 20px;
+}
+.footer-col-1, .footer-col-2, .footer-col-3, .footer-col-4{
+  min-width: 250px;
+  margin-bottom: 20px;
+}
+.footer-col-1{
+  flex-basis: 30px;
+}
+.footer-col-2{
+  flex:1;
+  text-align: center;
+}
+.footer-col-2 img{
+  width:500px;
+  margin-bottom: 20px;
+}
+.footer-col-3, .footer-col-4{
+  flex-basis: 12%;
+  text-align: center;
+}
+ul{
+  list-style-type:none;
+}
+.app-logo{
+  margin-top: 20px;
+}
+.app-logo img{
+  width:140px;
+}
+.footer hr{
+  border:none;
+  background: #b5b5b5;
+  height: 1px;
+  margin:20px 0;
+}
+.copyright{
+  text-align: center;
 }
 
 .icons .fa{
-color: #f44336;
-margin: 0 15px;
-cursor: pointer;
-padding: 18px 0;
-}
+  color: #f44336;
+  margin: 0 15px;
+  cursor: pointer;
+  padding: 18px 0;
+  }
+  
 
 
 /*---About Us Page, Colloborate page---*/
